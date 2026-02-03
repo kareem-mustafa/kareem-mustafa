@@ -54,8 +54,6 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 </p>
 
 ---
-
-- [Tech Zone](https://github.com/kareem-mustafa/tech-zone) - Full stack e-commerce web application
 ## 🚀 Projects
 
 - [Tech Zone](https://github.com/kareem-mustafa/tech-zone) - Full stack e-commerce web application
