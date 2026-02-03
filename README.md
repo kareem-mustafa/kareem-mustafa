@@ -55,10 +55,11 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 
 ---
 
+- [Tech Zone](https://github.com/kareem-mustafa/tech-zone) - Full stack e-commerce web application
 ## 🚀 Projects
 
 - [Tech Zone](https://github.com/kareem-mustafa/tech-zone) - Full stack e-commerce web application
-- [Saaf](https://github.com/MU71R/Front) - University official project with archiving, approvals, PDF generation
+- [Saaf](https://github.com/MU71R/Front) - Back-end for a real estate investment mobile application with archiving, approvals, PDF generation, and draft management
 
 ---
 
