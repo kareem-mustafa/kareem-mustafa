@@ -32,13 +32,12 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/aa6862d32f37cf6d2426d771a22b4683cc8d2e65f6dab45e39b5e1ff7bedf841/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c65787072657373"/>
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" />
 </p>
 
 ### Tools & Environment
