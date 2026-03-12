@@ -58,7 +58,7 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://www.linkedin.com/company/dovedigital" />
   </a>
   <a href="https://wa.me/201029438362" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
