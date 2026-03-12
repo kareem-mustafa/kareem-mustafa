@@ -27,7 +27,7 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 
 ### Frontend
 <p>
-  <img src="[https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white](https://camo.githubusercontent.com/a13337ae0b8b9c9d280b76fa630f9413f32662e95e2d2dd749fc0bb5b7f34d57/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c61722c68746d6c2c6373732c6a732c74732c626f6f747374726170)" />
+  <img src="https://camo.githubusercontent.com/a13337ae0b8b9c9d280b76fa630f9413f32662e95e2d2dd749fc0bb5b7f34d57/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c61722c68746d6c2c6373732c6a732c74732c626f6f747374726170" />
 </p>
 
 ### Backend
