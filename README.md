@@ -42,10 +42,7 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 
 ### Tools & Environment
 <p>
-  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://camo.githubusercontent.com/975c1819892ffbddcdffab37554952780b9fb36fa5fdef9b55db032bcc31894a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c706f73746d616e2c7673636f6465" />
 </p>
 
 ---
