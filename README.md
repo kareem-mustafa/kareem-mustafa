@@ -56,8 +56,8 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-  <i class="fa-brands fa-linkedin"></i>
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:kareemelkady358@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
