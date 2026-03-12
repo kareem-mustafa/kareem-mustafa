@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Karim-Mustafa&label=Profile%20Views&color=DD0031&style=flat-square" />
-
 </div>
 
 ---
