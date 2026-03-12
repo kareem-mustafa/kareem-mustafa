@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=900&color=DD0031&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karim%20Mustafa;MEAN+Stack+Web+Developer" alt="Typing SVG" />
@@ -57,6 +58,9 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
   <a href="mailto:kareemelkady358@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
+  <i class="fa-brands fa-linkedin"></i>
+</a>
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
     <img src="https://www.linkedin.com/company/dovedigital" />
   </a>
