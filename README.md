@@ -55,11 +55,11 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:kareemelkady358@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/201029438362" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
