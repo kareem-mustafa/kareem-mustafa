@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=900&color=DD0031&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karim%20Mustafa;MEAN+Stack+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=900&color=DD0031&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karim+Mustafa;Backend+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -15,15 +15,11 @@ Backend Developer specialized in building scalable, secure, and high-performance
 
 I focus on clean architecture, database optimization, and robust API design with a strong emphasis on security and cloud infrastructure.
 
-Designing and developing secure RESTful APIs & Microservices
-
-Writing clean, maintainable, and highly scalable server-side code
-
-Advanced database management & query optimization (SQL / NoSQL)
-
-Implementing secure authentication, authorization, and data protection best practices
-
-Server administration, cloud deployment, and performance tuning
+- Designing and developing secure RESTful APIs & Microservices
+- Writing clean, maintainable, and highly scalable server-side code
+- Advanced database management & query optimization (SQL / NoSQL)
+- Implementing secure authentication, authorization, and data protection best practices
+- Server administration, cloud deployment, and performance tuning
 
 ---
 
@@ -56,9 +52,10 @@ Server administration, cloud deployment, and performance tuning
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/201029438362" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
