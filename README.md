@@ -52,9 +52,8 @@ I focus on clean architecture, database optimization, and robust API design with
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPHYEqQ9oOTMk1haCw1V6jPL34MhyVY_Dmz4L_piQkw&s)" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://wa.me/201029438362" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
