@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=900&color=DD0031&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Karim+Mustafa;Backend+Developer" alt="Typing SVG" />
-a
+
 <br/>
 
 </div>
@@ -52,9 +52,9 @@ I focus on clean architecture, database optimization, and robust API design with
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/201029438362" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=social&logo=whatsapp&logoColor=black" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
