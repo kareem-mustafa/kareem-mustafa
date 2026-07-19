@@ -11,23 +11,23 @@
 
 ## 👨‍💻 About Me
 
-MEAN Stack Web Developer specialized in building **scalable, secure, and maintainable web applications**.  
-I focus on **clean architecture**, **performance optimization**, and **high-quality UI/UX** with strong backend integration.
+Backend Developer specialized in building scalable, secure, and high-performance server-side applications.
 
-- Developing modern **Web Applications & Admin Dashboards**
-- Writing **clean, maintainable, and scalable code**
-- Full **Frontend & Backend integration**
-- RESTful APIs & secure authentication
-- Performance and best practices oriented
+I focus on clean architecture, database optimization, and robust API design with a strong emphasis on security and cloud infrastructure.
+
+Designing and developing secure RESTful APIs & Microservices
+
+Writing clean, maintainable, and highly scalable server-side code
+
+Advanced database management & query optimization (SQL / NoSQL)
+
+Implementing secure authentication, authorization, and data protection best practices
+
+Server administration, cloud deployment, and performance tuning
 
 ---
 
 ## 🛠 Tech Stack
-
-### Frontend
-<p>
-  <img src="https://camo.githubusercontent.com/a13337ae0b8b9c9d280b76fa630f9413f32662e95e2d2dd749fc0bb5b7f34d57/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616e67756c61722c68746d6c2c6373732c6a732c74732c626f6f747374726170" />
-</p>
 
 ### Backend
 <p>
@@ -55,13 +55,10 @@ I focus on **clean architecture**, **performance optimization**, and **high-qual
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:kareemelkady358@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/201029438362" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
