@@ -4,9 +4,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Backend%20Developer-black?style=for-the-badge&logo=node.js&logoColor=green" />
-<img src="https://img.shields.io/badge/-Node.js%20%7C%20Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green" />
+<br/>
+
+<img src="https://img.shields.io/badge/Backend%20Developer-1a1a1a?style=for-the-badge&logo=serverless&logoColor=61DAFB" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
 </div>
 
@@ -37,6 +45,11 @@ I focus on clean architecture, database optimization, and robust API design with
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+### Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
 ### Tools & Environment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -53,13 +66,6 @@ I focus on clean architecture, database optimization, and robust API design with
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MU71R&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MU71R&theme=radical" height="165"/>
-</p>
-
----
 
 ## 📫 Contact Me
 
