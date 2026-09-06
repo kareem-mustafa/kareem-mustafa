@@ -6,33 +6,18 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Egypt-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
-<img src="https://img.shields.io/badge/💻_Backend_Developer-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
-<img src="https://img.shields.io/badge/☁️_AWS_Certified-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
-
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **Suez Valley University (SVU)** — including an award-submission portal, a speeches management system, and an archive management application.
+I'm an aspiring **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **South Valley National University** — including an award-submission portal, a speeches management system, and an archive management application.
 
 Alongside that, I work on independent MEAN-stack projects like a bread subscription & distribution platform and an e-commerce backend, and I'm expanding into **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward Solutions Architect.
 
-```javascript
-const karim = {
-  role: "Junior Backend Developer",
-  stack: ["Node.js", "Express.js", "MongoDB", "AWS"],
-  currentlyLearning: "AWS Solutions Architect",
-  buildingFor: "SVU systems & independent backend projects",
-};
-```
-
 - 🔧 Designing and developing secure RESTful APIs & Microservices with Node.js/Express/MongoDB
-- 🏛️ Building backend systems for Suez Valley University (award portal, speeches management, archive management)
+- 🏛️ Building backend systems for South Valley National University (award portal, speeches management, archive management)
 - 🗄️ Database design & query optimization with MongoDB/Mongoose
 - 🔐 Implementing JWT-based authentication, OAuth, and secure data handling
 - ☁️ AWS Certified Cloud Practitioner — building toward Solutions Architect
