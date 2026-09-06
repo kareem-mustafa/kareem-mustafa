@@ -9,7 +9,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_Egypt-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
-<img src="https://img.shields.io/badge/🎓_Computer_%26_AI_Student-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
+<img src="https://img.shields.io/badge/💻_Backend_Developer-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
 <img src="https://img.shields.io/badge/☁️_AWS_Certified-1a1a1a?style=flat-square&color=1a1a1a" height="26"/>
 
 </div>
@@ -18,24 +18,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer & Artificial Intelligence** student at **Suez Valley University (SVU)**, graduating in 2027, and an aspiring **Junior Backend Developer** who specializes in **Node.js & Express.js**.
+I'm an aspiring **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **Suez Valley University (SVU)** — including an award-submission portal, a speeches management system, and an archive management application.
 
-Over the past year I've grown from writing individual endpoints to **leading backend teams** on production-grade MEAN-stack systems — a bread subscription & distribution platform, an e-commerce backend, and a university award-submission portal — while also branching into **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward Solutions Architect as part of a graduation project on cloud security.
+Alongside that, I work on independent MEAN-stack projects like a bread subscription & distribution platform and an e-commerce backend, and I'm expanding into **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward Solutions Architect.
 
 ```javascript
 const karim = {
   role: "Junior Backend Developer",
   stack: ["Node.js", "Express.js", "MongoDB", "AWS"],
   currentlyLearning: "AWS Solutions Architect",
-  leads: "Backend teams on real-world MEAN-stack systems",
+  buildingFor: "SVU systems & independent backend projects",
 };
 ```
 
 - 🔧 Designing and developing secure RESTful APIs & Microservices with Node.js/Express/MongoDB
-- 🧱 Leading backend teams on production systems (subscription platforms, e-commerce, university portals)
+- 🏛️ Building backend systems for Suez Valley University (award portal, speeches management, archive management)
 - 🗄️ Database design & query optimization with MongoDB/Mongoose
 - 🔐 Implementing JWT-based authentication, OAuth, and secure data handling
-- ☁️ AWS Certified Cloud Practitioner — building toward Solutions Architect, applying cloud concepts to a cybersecurity graduation project
+- ☁️ AWS Certified Cloud Practitioner — building toward Solutions Architect
 
 <br/>
 
@@ -77,7 +77,7 @@ const karim = {
 | Project | Description |
 |:---|:---|
 | 🔗 [**Tech Zone**](https://tech-zoone.vercel.app/) | Full-stack e-commerce web application |
-| 🔗 [**Saaf**](https://github.com/MU71R/Front) | Backend for a real estate investment mobile app — archiving, approvals, PDF generation, draft management |
+| 🔗 [**Saaf**](https://github.com/MU71R/Front) | Backend for a real estate investment mobile app |
 
 <br/>
 
