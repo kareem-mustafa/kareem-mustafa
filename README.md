@@ -20,36 +20,38 @@
 <tr>
 <td width="65%">
 
-I'm a **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **South Valley National University**, including an award-submission portal, a speeches management system, and an archive management application.
+I'm a **Junior Backend Developer** specialized in **Node.js & Express.js**, focused on building clean, scalable, and well-architected APIs.
 
-I'm also expanding my expertise in **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward **AWS Solutions Architect**.
+Currently, I develop backend systems for **South Valley National University**, including an award-submission portal, a speeches management system, and an archive management application — each built with a strong focus on data integrity and maintainable MVC architecture.
+
+I'm also growing my expertise in **AWS Cloud**, holding the **AWS Certified Cloud Practitioner** credential while working toward **AWS Solutions Architect**.
 
 </td>
 
 <td width="35%">
 
 🔧 **Backend Development**  
-Secure RESTful APIs & Microservices
+Designing secure, scalable RESTful APIs & microservices
 
 <br/>
 
 🏛️ **University Systems**  
-Backend systems for South Valley National University
+Production backend systems for South Valley National University
 
 <br/>
 
 🗄️ **Database Design**  
-MongoDB & Mongoose
+Schema design & query optimization with MongoDB/Mongoose
 
 <br/>
 
-🔐 **Authentication**  
-JWT & OAuth
+🔐 **Authentication & Security**  
+JWT-based auth, OAuth, and secure data handling
 
 <br/>
 
 ☁️ **AWS Cloud**  
-Cloud Practitioner → Solutions Architect
+Certified Cloud Practitioner → working toward Solutions Architect
 
 </td>
 </tr>
@@ -142,7 +144,7 @@ Cloud Practitioner → Solutions Architect
 
 <td>
 
-Full-stack e-commerce web application
+Full-stack e-commerce web application with product catalog, cart, and order management.
 
 </td>
 </tr>
@@ -158,7 +160,7 @@ Full-stack e-commerce web application
 
 <td>
 
-Backend for a real estate investment mobile application
+Backend for a real estate investment mobile app, handling listings, user accounts, and transactions.
 
 </td>
 </tr>
