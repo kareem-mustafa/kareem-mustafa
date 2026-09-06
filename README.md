@@ -14,14 +14,15 @@
 
 ## 👨‍💻 About Me
 
-Backend Developer specialized in building scalable, secure, and high-performance server-side applications.
-I focus on clean architecture, database optimization, and robust API design with a strong emphasis on security and cloud infrastructure.
+Computer & Artificial Intelligence student at Suez Valley University (SVU), graduating 2027, and an aspiring **Junior Backend Developer** specialized in **Node.js & Express.js**.
 
-- 🔧 Designing and developing secure RESTful APIs & Microservices
-- 🧱 Writing clean, maintainable, and highly scalable server-side code
-- 🗄️ Advanced database management & query optimization (SQL / NoSQL)
-- 🔐 Implementing secure authentication, authorization, and data protection best practices
-- ☁️ Server administration, cloud deployment, and performance tuning
+I've served as **Backend Team Leader** on several real-world MEAN-stack systems — from a bread subscription & distribution platform to a university award-submission portal — and I'm currently expanding into **AWS Cloud** (Certified Cloud Practitioner) as part of a graduation project on cloud security.
+
+- 🔧 Designing and developing secure RESTful APIs & Microservices with Node.js/Express/MongoDB
+- 🧱 Leading backend teams on production systems (subscription platforms, e-commerce, university portals)
+- 🗄️ Database design & query optimization with MongoDB/Mongoose
+- 🔐 Implementing JWT-based authentication, OAuth, and secure data handling
+- ☁️ AWS Cloud Practitioner — building toward Solutions Architect, applying cloud concepts to a cybersecurity graduation project
 
 ---
 
@@ -42,14 +43,10 @@ I focus on clean architecture, database optimization, and robust API design with
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-### API Testing & Documentation
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,md" />
-</p>
-
 ### Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,md" />
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="48" title="Google Antigravity" />
 </p>
 
 ---
@@ -59,13 +56,17 @@ I focus on clean architecture, database optimization, and robust API design with
 | Project | Description |
 |---|---|
 | [**Tech Zone**](https://tech-zoone.vercel.app/) | Full-stack e-commerce web application |
-| [**Saaf**](https://github.com/MU71R/Front) | Backend for a real estate investment mobile app — archiving, approvals, PDF generation, draft management |
+| [**Saaf**](https://github.com/MU71R/Front) | Backend for a real estate investment mobile app |
 
 ---
 
 ## 📫 Contact Me
 
 <p align="center">
+  <a href="mailto:kareemelkady358@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kariem-mustafa" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
