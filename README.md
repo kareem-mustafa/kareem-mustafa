@@ -42,9 +42,14 @@ I focus on clean architecture, database optimization, and robust API design with
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+### API Testing & Documentation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,md" />
+</p>
+
 ### Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -66,6 +71,6 @@ I focus on clean architecture, database optimization, and robust API design with
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/201029438362" target="_blank">
-    <img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="48" />
+    <img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="48" width="48" />
   </a>
 </p>
