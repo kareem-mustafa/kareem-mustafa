@@ -12,35 +12,40 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **South Valley National University** — including an award-submission portal, a speeches management system, and an archive management application.
+I'm a **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **South Valley National University**, including an award-submission portal, a speeches management system, and an archive management application.
 
-Alongside that, I work on independent MEAN-stack projects like a bread subscription & distribution platform and an e-commerce backend, and I'm expanding into **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward Solutions Architect.
+Alongside that, I work on independent **MEAN-stack projects**, including a bread subscription & distribution platform and an e-commerce backend. I'm also expanding my expertise in **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward **AWS Solutions Architect**.
 
-- 🔧 Designing and developing secure RESTful APIs & Microservices with Node.js/Express/MongoDB
-- 🏛️ Building backend systems for South Valley National University (award portal, speeches management, archive management)
-- 🗄️ Database design & query optimization with MongoDB/Mongoose
-- 🔐 Implementing JWT-based authentication, OAuth, and secure data handling
-- ☁️ AWS Certified Cloud Practitioner — building toward Solutions Architect
+- 🔧 Designing and developing secure **RESTful APIs & Microservices** with Node.js, Express.js, and MongoDB
+- 🏛️ Building backend systems for **South Valley National University**
+- 🗄️ Database design, optimization, and data modeling with **MongoDB & Mongoose**
+- 🔐 Implementing **JWT authentication, OAuth, and secure data handling**
+- ☁️ **AWS Certified Cloud Practitioner** — currently building toward Solutions Architect
+- 🚀 Interested in backend architecture, cloud infrastructure, scalability, and system design
 
 <br/>
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws" />
+### Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 <br/>
 
@@ -48,8 +53,29 @@ Alongside that, I work on independent MEAN-stack projects like a bread subscript
 
 | Project | Description |
 |:---|:---|
-| 🔗 [**Tech Zone**](https://tech-zoone.vercel.app/) | Full-stack e-commerce web application |
-| 🔗 [**Saaf**](https://github.com/MU71R/Front) | Backend for a real estate investment mobile app |
+| 🔗 **[Tech Zone](https://tech-zoone.vercel.app/)** | Full-stack e-commerce web application |
+| 🔗 **[Saaf](https://github.com/MU71R/Front)** | Backend for a real estate investment mobile application |
+| 🔗 **Bread Subscription Platform** | Subscription, distribution, carry, and delivery management system |
+
+<br/>
+
+## ☁️ AWS & Cloud
+
+Currently expanding my knowledge in AWS with a focus on:
+
+- AWS Core Services
+- IAM & Security
+- VPC & Networking
+- EC2 & Auto Scaling
+- Load Balancing
+- S3, EBS & EFS
+- RDS & Database Architecture
+- High Availability & Fault Tolerance
+- Cloud Architecture & Well-Architected Framework
+
+**Certification:**
+
+🏆 AWS Certified Cloud Practitioner
 
 <br/>
 
@@ -57,16 +83,28 @@ Alongside that, I work on independent MEAN-stack projects like a bread subscript
 
 <div align="center">
 
-<a href="mailto:kareemelkady358@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48" height="48" style="vertical-align:middle;border:none;" />
+<a href="mailto:kareemelkady358@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="48" height="48" />
 </a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kariem-mustafa" target="_blank" style="text-decoration:none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="vertical-align:middle;border:none;" />
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/kariem-mustafa">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="48" height="48" />
 </a>
-&nbsp;&nbsp;
-<a href="https://wa.me/201029438362" target="_blank" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" width="48" height="48" style="vertical-align:middle;border:none;" />
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/201029438362">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="48" height="48" />
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Always Learning • Building • Growing
 
 </div>
