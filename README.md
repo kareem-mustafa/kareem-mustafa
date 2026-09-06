@@ -26,34 +26,21 @@ Alongside that, I work on independent MEAN-stack projects like a bread subscript
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
-
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
-
-</td>
-<td valign="top" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb" /></p>
-
-</td>
-<td valign="top" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 **Cloud**
-<p><img src="https://skillicons.dev/icons?i=aws" /></p>
-
-</td>
-<td valign="top" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=aws" />
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /></p>
-
-</td>
-</tr>
-</table>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 <br/>
 
