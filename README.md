@@ -22,8 +22,6 @@
 
 I'm a **Junior Backend Developer** specialized in **Node.js & Express.js**, currently building backend systems for **South Valley National University**, including an award-submission portal, a speeches management system, and an archive management application.
 
-Alongside that, I work on independent **MEAN-stack projects**, including a bread subscription & distribution platform and an e-commerce backend.
-
 I'm also expanding my expertise in **AWS Cloud**, where I hold the **AWS Certified Cloud Practitioner** credential and am working toward **AWS Solutions Architect**.
 
 </td>
@@ -161,20 +159,6 @@ Full-stack e-commerce web application
 <td>
 
 Backend for a real estate investment mobile application
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🍞 <b>Bread Subscription Platform</b>
-
-</td>
-
-<td>
-
-Subscription, distribution, carry, delivery and management system
 
 </td>
 </tr>
