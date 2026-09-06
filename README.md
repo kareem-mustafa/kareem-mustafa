@@ -51,7 +51,7 @@ I focus on clean architecture, database optimization, and robust API design with
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaim-mustafa-amin" target="_blank">
+  <a href="www.linkedin.com/in/kariem-mustafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
