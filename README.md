@@ -66,7 +66,6 @@ I focus on clean architecture, database optimization, and robust API design with
 
 ---
 
-
 ## 📫 Contact Me
 
 <p align="center">
